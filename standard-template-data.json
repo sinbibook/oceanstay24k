@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-02-02T05:51:37.799Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-02-02T07:00:03.086Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "e3b0a0a7-9a7e-4f4d-9680-874fd7d36d60",
     "homepageId": "7508f4a3-f20a-4d0d-a28b-a01fe3c90f75"
@@ -682,7 +682,7 @@
   ],
   "homepage": {
     "domain": "oceanstay24k.kr",
-    "templateType": "full_banner_slider_group",
+    "templateType": "full_banner_conveyer",
     "images": [
       {
         "logo": []
@@ -748,7 +748,7 @@
                 "description": "파도 옆에서 쉬어가는 곳, 오션스테이"
               },
               "closing": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "fd421de9-b395-4563-bbe7-1e71ebe67c0f",
@@ -757,30 +757,38 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "essence": {
-                "title": "ㅇㅇ",
+                "title": "Oceanstay",
                 "images": [
                   {
-                    "id": "c9434989-87ce-4685-9d91-3fee28a004aa",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/index_essence/1770011440284-9uafrdkzj25.jpg",
+                    "id": "630542dd-00de-4abb-b36f-79a072f2118a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/index_essence/1770011440285-zykvi8my0xj.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "630542dd-00de-4abb-b36f-79a072f2118a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/index_essence/1770011440285-zykvi8my0xj.jpg",
+                    "id": "c9434989-87ce-4685-9d91-3fee28a004aa",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/index_essence/1770011440284-9uafrdkzj25.jpg",
                     "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "e5b6ba05-7f37-40e1-b944-a1b50b9df995",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/index_essence/1770014360798-gxj481vlcgj.jpg",
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "ㅇㅇ"
+                "description": "\n파도 소리가 하루를 채우고, \n창 너머로 펼쳐지는 오션뷰가 여유를 더합니다. \n머무는 순간마다 편안함이 자연스럽게 스며듭니다."
               },
               "gallery": {
-                "title": "",
+                "title": " Preview",
                 "images": [
                   {
                     "id": "8fa213c1-919e-41d3-8bd4-7aeb4de76db3",
@@ -824,11 +832,13 @@
                     "description": "서핑스팟",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "signature": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [],
+                "description": " "
               }
             }
           ]
@@ -837,8 +847,16 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "오시는 길",
+                "images": [
+                  {
+                    "id": "b656c663-d61b-4cfd-aa2e-01d439a025c7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/directions_hero/1770015592313-yoe43jhodkq.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -851,10 +869,35 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "f577d2eb-e7f8-4cfe-99ba-e6cd746a3771",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/main_hero/1770014360799-9ebh50ssf1l.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "파도가 가장 먼저 하루를 깨우는 곳\n양양의 바다 앞에서 시작되는 오션스테이\n창을 열면 시야 가득 펼쳐지는 푸른 풍경\n일상의 속도를 잠시 내려놓는 시간\n서핑이 가능한 해변과 가까운 특별한 위치\n바다를 즐기고, 다시 편안히 쉬어가는 공간\n파도 소리와 함께 흐르는 느린 하루\n혼자여도, 함께여도 충분한 여유\n자연이 주는 리듬에 몸을 맡기며\n양양 오션스테이에서 바다 같은 쉼을 만나보세요"
               },
-              "about": []
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "e6cf1c1e-35cd-4cbf-9373-28aa9a5ea4fa",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/main_about/1770014360799-j2b2jjnxnz.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "3c5948b0-6ebc-415c-8ce8-d2245e37c649"
+                    }
+                  ],
+                  "blockId": "3c5948b0-6ebc-415c-8ce8-d2245e37c649",
+                  "description": "바다 곁에 두고 머무는 숙소에서\n파도와 바다의 풍경이 일상이 되고,\n해변의 여유를 가장 가까이에서 누릴 수 있습니다."
+                }
+              ]
             }
           ]
         },
@@ -865,12 +908,20 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "003ea8cc-6f25-4a28-a15e-6bee8f35f1f7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/reservation_hero/1770015592313-ahtbhhkn01u.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
-                "title": "",
+                "title": " ",
                 "images": [],
-                "description": ""
+                "description": " "
               }
             }
           ]
@@ -882,22 +933,22 @@
       "theme": {
         "font": {
           "koSub": {
-            "cdn": "https://fonts.cdnfonts.com/css/noto-serif-kr",
-            "key": "notoserifKR",
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
             "woff2": null,
-            "family": "Noto Serif KR"
+            "family": "Pretendard"
           },
           "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap",
-            "key": "sourgummy",
+            "cdn": "https://fonts.cdnfonts.com/css/raqillas",
+            "key": "raqillas",
             "woff2": null,
-            "family": "Sour Gummy"
+            "family": "Raqillas"
           },
           "koMain": {
             "cdn": null,
-            "key": "coolguy",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2403@1.0/CoolGuy-Medium.woff2",
-            "family": "CoolGuy"
+            "key": "escoredream",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-5Medium.woff",
+            "family": "Escoredream"
           }
         },
         "color": {
