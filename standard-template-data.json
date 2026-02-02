@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-02-02T07:59:01.141Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-02-02T09:02:01.685Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "e3b0a0a7-9a7e-4f4d-9680-874fd7d36d60",
     "homepageId": "7508f4a3-f20a-4d0d-a28b-a01fe3c90f75"
@@ -896,6 +896,21 @@
                   ],
                   "blockId": "3c5948b0-6ebc-415c-8ce8-d2245e37c649",
                   "description": "바다 곁에 두고 머무는 숙소에서\n파도와 바다의 풍경이 일상이 되고,\n해변의 여유를 가장 가까이에서 누릴 수 있습니다."
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "f8c3dcac-9b1c-40f8-83e0-6c1bb878b779",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/main_about/1770022913440-7hsbyzhcjr9.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "7bc23a60-2918-49d1-8734-527154e5ddaf"
+                    }
+                  ],
+                  "blockId": "7bc23a60-2918-49d1-8734-527154e5ddaf",
+                  "description": "숙소 앞 해변 산책로를 따라 여유로운 시간을 보내고,\n바로 앞 동호항 해수욕장에서 \n서핑을 즐길 수 있는 위치에 자리합니다.\n바다를 걷고 파도를 타는 하루가 자연스럽게 이어집니다."
                 }
               ]
             }
