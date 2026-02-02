@@ -1,1 +1,1 @@
-# oceanstay24k
+# template-full-banner-wipe
