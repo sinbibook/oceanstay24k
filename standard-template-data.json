@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-02-05T01:11:34.905Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-02-05T02:07:47.280Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "e3b0a0a7-9a7e-4f4d-9680-874fd7d36d60",
     "homepageId": "7508f4a3-f20a-4d0d-a28b-a01fe3c90f75"
   },
   "property": {
     "id": "e3b0a0a7-9a7e-4f4d-9680-874fd7d36d60",
-    "name": "양양 오션스테이 24K",
+    "name": "양양 오션스테이 24K (E7 호텔)",
     "description": "",
     "subtitle": "물결 소리를 가장 가까이에서 느끼며, 바다 앞에서 완벽한 휴식을 누릴 수 있는 양양 오션스테이입니다.",
     "address": "강원특별자치도 양양군 현남면 동산큰길 21",
@@ -231,7 +231,7 @@
         "commonArea": []
       }
     ],
-    "nameEn": "Yangyang Oceanstay 24K",
+    "nameEn": "Yangyang Oceanstay 24K (E7 HOTEL)",
     "domain": "oceanstay24k.kr",
     "realtimeBookingId": "",
     "ybsId": ""
@@ -2489,6 +2489,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "7508f4a3-f20a-4d0d-a28b-a01fe3c90f75"
   }
 }
