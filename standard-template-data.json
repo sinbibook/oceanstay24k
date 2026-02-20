@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-02-05T07:49:24.621Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-02-20T00:48:43.376Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "e3b0a0a7-9a7e-4f4d-9680-874fd7d36d60",
     "homepageId": "7508f4a3-f20a-4d0d-a28b-a01fe3c90f75"
@@ -233,8 +233,8 @@
     ],
     "nameEn": "Yangyang Oceanstay 24K (E7 HOTEL)",
     "domain": "oceanstay24k.kr",
-    "realtimeBookingId": "",
-    "ybsId": ""
+    "realtimeBookingId": "https://www.bookingplay.co.kr/partner/item/10885/calendar_main/",
+    "ybsId": "79456"
   },
   "rooms": [
     {
