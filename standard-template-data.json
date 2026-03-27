@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-03-16T08:04:11.437Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-03-27T00:49:17.722Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "e3b0a0a7-9a7e-4f4d-9680-874fd7d36d60",
     "homepageId": "7508f4a3-f20a-4d0d-a28b-a01fe3c90f75"
@@ -596,7 +596,7 @@
           "exterior": []
         }
       ],
-      "displayOrder": 6
+      "displayOrder": 5
     },
     {
       "id": "2a89d22e-551a-4590-b134-00d92501f9f0",
@@ -652,7 +652,7 @@
           "exterior": []
         }
       ],
-      "displayOrder": 7
+      "displayOrder": 6
     },
     {
       "id": "cce3fbbc-ed5b-4a29-b6db-182bfaade479",
@@ -708,7 +708,7 @@
           "exterior": []
         }
       ],
-      "displayOrder": 8
+      "displayOrder": 7
     },
     {
       "id": "88a67081-7c7b-4ecf-8323-8909653c46f7",
@@ -764,7 +764,7 @@
           "exterior": []
         }
       ],
-      "displayOrder": 9
+      "displayOrder": 8
     }
   ],
   "homepage": {
@@ -2576,6 +2576,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "7508f4a3-f20a-4d0d-a28b-a01fe3c90f75"
   }
 }
