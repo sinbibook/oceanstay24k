@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.33.0",
-    "generatedAt": "2026-04-07T09:27:21.389Z",
+    "version": "1.34.0",
+    "generatedAt": "2026-04-07T09:32:46.566Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "e3b0a0a7-9a7e-4f4d-9680-874fd7d36d60",
     "homepageId": "7508f4a3-f20a-4d0d-a28b-a01fe3c90f75"
@@ -3685,7 +3685,15 @@
     "templateType": "full_banner_slider_group",
     "images": [
       {
-        "logo": []
+        "logo": [
+          {
+            "id": "42482d66-0c93-44f3-b4d8-5eef09f1107a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/logo/1775553840657-qmx1g2zlywa.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "seo": {
@@ -3768,7 +3776,7 @@
                 "description": " "
               },
               "essence": {
-                "title": "Oceanstay 24K",
+                "title": "파도 소리가 하루를 채우고,  창 너머로 펼쳐지는 오션뷰가 여유를 더합니다.  머무는 순간마다 편안함이 자연스럽게 스며듭니다.",
                 "images": [
                   {
                     "id": "630542dd-00de-4abb-b36f-79a072f2118a",
@@ -3792,7 +3800,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "\n파도 소리가 하루를 채우고, \n창 너머로 펼쳐지는 오션뷰가 여유를 더합니다. \n머무는 순간마다 편안함이 자연스럽게 스며듭니다."
+                "description": "Oceanstay 24K"
               },
               "gallery": {
                 "title": " Preview",
@@ -3844,7 +3852,22 @@
               },
               "signature": {
                 "title": " ",
-                "images": [],
+                "images": [
+                  {
+                    "id": "49876ac9-e99b-4d82-a817-485d3158344c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/index_signature/1775553612389-jwqjsntps.jpg",
+                    "sortOrder": 0,
+                    "description": "양양 오션스테이에서 바다 같은 쉼을 만나보세요",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "ddcc286b-a6d4-4a64-8c34-ec097bc27ca6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/index_signature/1775553840657-emiwdc8908m.jpg",
+                    "sortOrder": 1,
+                    "description": "양양 오션스테이에서 바다 같은 쉼을 만나보세요",
+                    "isSelected": true
+                  }
+                ],
                 "description": " "
               }
             }
@@ -3897,8 +3920,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/main_about/1770014360799-j2b2jjnxnz.jpg",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "3c5948b0-6ebc-415c-8ce8-d2245e37c649"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "3c5948b0-6ebc-415c-8ce8-d2245e37c649",
@@ -3912,8 +3934,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/main_about/1770022913440-7hsbyzhcjr9.jpg",
                       "sortOrder": 1,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "7bc23a60-2918-49d1-8734-527154e5ddaf"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "7bc23a60-2918-49d1-8734-527154e5ddaf",
@@ -13456,6 +13477,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "7508f4a3-f20a-4d0d-a28b-a01fe3c90f75"
   }
 }
