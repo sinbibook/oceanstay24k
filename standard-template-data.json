@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.38.0",
-    "generatedAt": "2026-06-30T09:42:39.227908728Z",
+    "version": "1.39.0",
+    "generatedAt": "2026-07-06T00:42:07.442125667Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "e3b0a0a7-9a7e-4f4d-9680-874fd7d36d60",
     "homepageId": "7508f4a3-f20a-4d0d-a28b-a01fe3c90f75"
@@ -14,7 +14,7 @@
     "address": "강원특별자치도 양양군 현남면 동산큰길 21 양양 오션스테이",
     "latitude": 37.9778343248807,
     "longitude": 128.75901056509,
-    "contactPhone": "",
+    "contactPhone": "010-3875-2538",
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -12106,9 +12106,9 @@
               {
                 "id": "5cbf4b8c-0565-4195-be1a-d571fc8391d1",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/popup/1774572732197-oznqnootyno.jpg",
-                "sortOrder": 0,
+                "sortOrder": 1,
                 "description": "",
-                "isSelected": true,
+                "isSelected": false,
                 "blockId": "cd26c977-c419-48c0-b1a6-2e941a66d9dc"
               }
             ],
@@ -12127,7 +12127,7 @@
               {
                 "id": "bf011129-2256-46bf-afcf-0e26a390b9fc",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/popup/1781256038693-7z5i0twjf2.jpg",
-                "sortOrder": 1,
+                "sortOrder": 0,
                 "description": "",
                 "isSelected": true,
                 "blockId": "19547b6c-edde-478a-8b6a-9907abeb5a36"
