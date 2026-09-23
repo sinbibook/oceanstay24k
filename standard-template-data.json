@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.45.0",
-    "generatedAt": "2026-09-23T07:12:46.661147478Z",
+    "version": "1.46.0",
+    "generatedAt": "2026-09-23T07:13:29.389230910Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "e3b0a0a7-9a7e-4f4d-9680-874fd7d36d60",
     "homepageId": "7508f4a3-f20a-4d0d-a28b-a01fe3c90f75"
@@ -12057,8 +12057,8 @@
             "title": "",
             "images": [
               {
-                "id": "01a0cd1c-0651-7058-be09-48495ea61d43",
-                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/popup/1790147560512-3rk8c911pp.png",
+                "id": "01a0cd1c-aff8-7f69-90d9-83d405ce5eef",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7508f4a3-f20a-4d0d-a28b-a01fe3c90f75/popup/1790147604128-4xnt5drzlj.png",
                 "sortOrder": 2,
                 "description": "",
                 "isSelected": true,
